@@ -117,6 +117,17 @@ SLIDE_DATA = [
             "Long-Term Strategy:\n• Invest in dual-feedstock refining capabilities\n• For logistics/aviation, accelerate transition to energy-efficient assets and alternative fuels (e.g., Sustainable Aviation Fuel)."
         ],
         "notes": "To conclude, companies cannot control geopolitics, but they can control their exposure. Our main recommendation is to transition from reactive compliance to proactive structural resilience. This means checking supply chain chokepoint exposure today, formalizing a layered hedging program, and investing in the operational flexibility to process different grades of crude depending on where the market discounts lie. Thank you, and I am happy to open the floor to questions."
+    },
+    {
+        "title": "Sources & Data Appendix",
+        "bullets": [
+            "Brent Crude Spot Prices & Historical Volatility: U.S. Energy Information Administration (EIA) Spot Prices & St. Louis Fed (FRED) Database - Series DCOILBRENTEU",
+            "Indian Crude Sourcing & Import Statistics: Ministry of Petroleum & Natural Gas (PPAC) & Ministry of Commerce & Industry (TRADESTAT database)",
+            "Maritime Chokepoints & Logistics Economics: EIA World Oil Transit Chokepoints Brief & UNCTAD Reports on Red Sea Navigation Disruptions (2024-2026)",
+            "Aviation Industry & Sanctions Frameworks: IATA Jet Fuel Price Monitor & G7 Price Cap Coalition Advisories (U.S. Treasury OFAC)",
+            "Interactive Data Appendix & Python Source Code: Verification repository and script automation is hosted at: https://github.com/jozee-io/oil-geopolitics-2022-2026"
+        ],
+        "notes": "And finally, here is our data appendix and sources page. We have compiled all Brent crude price histories from the EIA and St. Louis Fed FRED databases, and mapped them to Indian ministry sourcing and trade datasets. Additionally, we have open-sourced the entire scraping codebase, charts, and CSV files in a public GitHub repository at the link shown here, allowing complete cross-verification of our research findings. Thank you very much."
     }
 ]
 

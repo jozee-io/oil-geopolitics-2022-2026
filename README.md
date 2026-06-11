@@ -19,7 +19,7 @@ The project investigates crude oil not simply as a physical commodity, but as a 
 
 *   📊 **[oil_geopolitical_timeline_2022_2026.csv](oil_geopolitical_timeline_2022_2026.csv)**: The complete daily dataset (1,108 rows) containing Brent crude closing prices aligned with mapped geopolitical events, categories, and Indian import statistics from January 2022 to May 23, 2026.
 *   📈 **[oil_geopolitical_timeline_chart.png](oil_geopolitical_timeline_chart.png)**: An annotated high-resolution line chart highlighting major geopolitical milestones directly on the price line.
-*   🖥️ **[Geopolitical_Oil_Strategic_Playbook_Solarized_Light_v3.pptx](Geopolitical_Oil_Strategic_Playbook_Solarized_Light_v3.pptx)**: Widescreen presentation slide deck for the Geopolitical Oil Strategic Playbook (Solarized Light v3).
+*   🖥️ 
 *   📕 **[Geopolitical_Oil_Strategic_Playbook_Solarized_Light_v3.pdf](Geopolitical_Oil_Strategic_Playbook_Solarized_Light_v3.pdf)**: PDF version of the Geopolitical Oil Strategic Playbook (Solarized Light v3).
 *   🐍 **[oil_research_scraper.py](oil_research_scraper.py)**: Python script utilizing the **Scrapling** static fetcher to gather Brent prices and merge them with our curated geopolitical timeline database.
 *   🐍 **[generate_chart.py](generate_chart.py)**: Python script using `matplotlib` to render the styled, annotated line chart.
